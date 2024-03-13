@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780223963970",
+    "project_id": "clinica-ulagos-app",
+    "storage_bucket": "clinica-ulagos-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780223963970:android:4bd238ec36f5a4815b5edb",
+        "android_client_info": {
+          "package_name": "com.example.clinica_ulagos_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEKRVVG2Ujw_COx8rcKSAnuNB070-3QGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
